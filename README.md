@@ -91,5 +91,6 @@ Ref:Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. Deep Residual Learning fo
 |             | Model with VGG16|Model with Resnet-152|
 |-------------|-----------------|---------------------|
 |Test Accuracy|90.06%           |93.75%               |
+
 From the testing results, we can see that Resnet-152 is more effective in classifying the features of the X-ray images. This can be due to it having a deeper neural network. Hence, the model is able to extract more information out of the 
 images and allow a better classification of the images.
